@@ -1,7 +1,7 @@
 # File sharing Platform
 
 ## About The Website
-File..........................
+Doc Sharings is a user friendly web portal developed using Django which aids sharing and oragnizing files and folders effectively.
 
 ### Environment Setup Locally
 
